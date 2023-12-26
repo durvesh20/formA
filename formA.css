@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.fa-user{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+#fname-cont{
+    position: relative;
+}
+
+#fname{
+    height: 20px;
+    padding-left: 30px;
+}
+.fa-envelopex{
+    position: absolute;
+    top: 10%;
+    left: 3.5%;
+}
+#eid-cont{
+    position: relative;
+  }
+#eid{
+    height: 20px;
+    padding-left: 30px;
+}
